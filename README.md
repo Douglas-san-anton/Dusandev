@@ -1,9 +1,9 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio responsive complete
-A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name, links to social networks and a great image. Then the About section displays more information about you. Then the list of Skills it offers. It also has a section where it shows some recent work. And at the bottom it has a form, and at the end with a footer.
+# Portfolio Responsive Complete Dusandev
+### Design 1440
+<img src='https://user-images.githubusercontent.com/73114495/188332829-154c1988-d0e5-4106-a138-830bd9032d22.png' height=400>
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+### Design 768
+<img src='https://user-images.githubusercontent.com/73114495/188332834-9bcaaa71-449f-43d5-a6b0-c45a3c280130.png' height=400>
 
-![preview img](/preview.png)
+### Design 375
+<img src='https://user-images.githubusercontent.com/73114495/188332643-f0db78d9-9d94-4507-915b-5e4beb5afef8.png' height=400>
